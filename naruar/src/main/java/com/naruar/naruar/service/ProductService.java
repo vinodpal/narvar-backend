@@ -1,6 +1,6 @@
-package service;
+package com.naruar.naruar.service;
 
-import model.*;
+import com.naruar.naruar.model.*;
 import org.springframework.stereotype.Service;
 
 import java.util.*;

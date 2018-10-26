@@ -1,4 +1,4 @@
-package model;
+package com.naruar.naruar.model;
 
 import java.util.List;
 
